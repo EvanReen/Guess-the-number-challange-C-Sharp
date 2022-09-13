@@ -1,4 +1,4 @@
-# Guess-the-number-challange-C-Sharp
+# Guess-the-number-challenge-C-Sharp
 
 Program that generates a random number and the user has to try and guess the correct number.
 
